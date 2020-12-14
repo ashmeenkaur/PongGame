@@ -46,3 +46,18 @@ body{
     top:50%;
     right:10%;
 }
+
+.fa-heart{
+    font-size: 32px;
+    /* color:#92fe9d; */
+    color: #ff0000;
+}
+
+.scorecard{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 10%;
+}
+
+
